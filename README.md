@@ -1,2 +1,2 @@
-# CodeAcademy_Python
-For all my python code
+# CodeAcademy_Public
+For all my public codeacademy projects
